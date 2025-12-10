@@ -5,7 +5,7 @@
 - 💻 I love coding and building real-world projects  
 - 🌱 I’m currently learning **Spring Boot, Angular, DevOps**  
 - 💼 Working on **Ecoma Project**  
-- 📫 Contact me: **yourmail@gmail.com**
+- 📫 Contact me: **hanlwinshein@gmail.com**
 
 ## Tech Stack  
 
@@ -61,12 +61,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:hanlwinshein@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
----
 
 ### ⭐ If you like my profile, give it a star!
 
