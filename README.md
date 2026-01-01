@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Han Lwin Shein</h1>
-<h3 align="center">Full Stack Developer | Java | Spring Boot | Web Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ## About Me  
 - 💻 I love coding and building real-world projects  
-- 🌱 I’m currently learning **Spring Boot, Angular, DevOps**  
+- 🌱 I’m currently learning **Spring Boot, Angular**  
 - 💼 Working on **Ecoma Project**  
 - 📫 Contact me: **hanlwinshein@gmail.com**
 
