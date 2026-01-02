@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Han Lwin Shein</h1>
-<h3 align="center">Full Stack Developer</h3>
 
 ## About Me  
 - 💻 I love coding and building real-world projects  
